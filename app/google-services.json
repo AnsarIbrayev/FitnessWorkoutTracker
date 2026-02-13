@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013313372039",
+    "project_id": "fitnessworkouttracker-fd23b",
+    "storage_bucket": "fitnessworkouttracker-fd23b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013313372039:android:a82e771a3901b016cd5d22",
+        "android_client_info": {
+          "package_name": "kz.aitu.fitnessworkouttracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABuh_U-VZANI_eL1OqABXZrtN4L1S1uWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
